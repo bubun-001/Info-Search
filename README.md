@@ -1,5 +1,7 @@
-- Developer - [Lala Amartya Chand][github.com/bubun-001]
-- Developer - [Chinmaya Pradhan][github.com/chinmaya-2024]
+# Developers
+
+- Developer - [Lala Amartya Chand](https://github.com/bubun-001)
+- Developer - [Chinmaya Pradhan](https://github.com/chinmaya-2024)
 
 
 
