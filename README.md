@@ -1,3 +1,9 @@
+Developer - [Lala Amartya Chand][github.com/bubun-001]
+Developer - [Chinmaya Pradhan][github.com/chinmaya-2024]
+
+
+
+
 # Info-Search
 What is Info-Search?
 - Info Search leverages Retrieval-Augmented Generation (RAG)
